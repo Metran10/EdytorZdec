@@ -1,0 +1,2 @@
+[DEFAULT]
+base_geometry = 1000x800+50+50
